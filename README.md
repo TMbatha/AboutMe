@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">I'm Thabiso Mbatha and I'm a Software and Application Development student at the Cape Peninsula University of Technology. My passion lies in innovation and continuous improvement of my programming skills.</p>
+<p align="left">I'm Thabiso Mbatha and I'm a Software and Application Development and my passion lies in innovation and continuous improvement of my programming skills.</p>
 
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMbatha/TMbatha/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TMbatha/TMbatha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TMbatha/TMbatha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TMbatha/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
