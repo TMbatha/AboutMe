@@ -2,23 +2,14 @@
 
 ###
 
-<p align="left">I'm Thabiso Mbatha and I'm a Software and Application Development and my passion lies in innovation and continuous improvement of my programming skills.</p>
+<p align="left">I'm Thabiso Mbatha and I'm a Software and Application Developer.</p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMbatha/TMbatha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TMbatha/TMbatha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TMbatha/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ I'm always seeking to improve my skills through practice and self-study.<br>📚 I'm also currently learning more about JS and React.<br>🎯 I’m still gaining real-world experience in a professional development environment.<br>🎲 A Fun fact: My background in media allows me to approach technical challenges with unique, visual, and user-focused solutions.</p>
+<p align="left">✨ I'm always seeking to improve my skills through practice and self-study.<br>📚 I'm also currently learning more about JS and React in my internship at Plum Systems.<br>🎯 I participate in Agile Sprints quite often.<br></p>
 
 ###
 
